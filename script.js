@@ -40,7 +40,9 @@ document.getElementById('projects-btn').addEventListener('click', function () {
       <h2>Projects</h2>
       <ul>
         <li><a href="https://github.com/Pratyusha123-prog/MoneyTracker/" target="_blank">Money Tracker Website</a></li>
-        <li><a href="https://github.com/Pratyusha123-prog/Quiz" target="_blank">Quiz Web Project</a></li>
+        <li><a href="https://github.com/Pratyusha123-prog/tech-care-ui" target="_blank">Patient DashBoard System</a></li>
+        <li><a href="https://github.com/Pratyusha123-prog/PortFolioWebsite" target="_blank">Personal Portfolio</a></li>
+        
       </ul>
     `;
 });
