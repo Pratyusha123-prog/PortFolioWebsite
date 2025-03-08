@@ -19,7 +19,7 @@ document.getElementById('education-btn').addEventListener('click', function () {
 document.getElementById('skills-btn').addEventListener('click', function () {
     document.getElementById('content').innerHTML = `
       <h2>Skills</h2>
-      <p>C, Java, Python, SQL, HTML, CSS, Javascript, Node.js, MongoDB, DSA</p>
+      <p>C, Java, Python, SQL, HTML, CSS, Javascript, Node.js, MongoDB, DSA.<br><br>Good Communication, Adaptability,Team Work</p>
     `;
 });
 
@@ -48,8 +48,8 @@ document.getElementById('projects-btn').addEventListener('click', function () {
 document.getElementById('contact-btn').addEventListener('click', function () {
     document.getElementById('content').innerHTML = `
       <h2>Contact Details</h2>
-      <p>Email: pratyusha@example.com</p>
-      <p>Phone: +91 12345 67890</p>
+      <p>Email: kuruvaprathyusha123@com</p>
+      <p>Phone: +91 9642059678</p>
       <p>Location: Kurnool</p>
     `;
 });
